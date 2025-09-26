@@ -23,8 +23,8 @@ Os projetos foram desenvolvidos em **C** e testados num **servidor da universida
 * O código aqui disponível não inclui o `main` nem os testes oficiais, que se encontravam apenas no servidor.
 * Este repositório serve de **portefólio académico**, reunindo as implementações desenvolvidas pelo autor.
 
-## 👤 Autor
+## Autor
 
-Francisco Câmara
+Francisco Bessa Lopes Câmara
 
-Francisco Vilarinho
+Francisco Gançalves Vilarinho
